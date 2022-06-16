@@ -22,7 +22,7 @@ public class RockPaperScissors {
 				
 				
 			}
-			//hi   ssss
+			//hi  
 			
 			else {
 				int rand =(int) (Math.random()*3);
